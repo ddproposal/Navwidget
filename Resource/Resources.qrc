@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>FluentDataTrending32Filled.svg</file>
+        <file>FontistoMysql.svg</file>
+        <file>FontistoRedux.svg</file>
+        <file>GameIconsHistogram.svg</file>
+        <file>LineMdCoffee.svg</file>
+        <file>StreamlineDatabaseLockSolid.svg</file>
+        <file>StreamlineDatabaseServer2Solid.svg</file>
+    </qresource>
+</RCC>
